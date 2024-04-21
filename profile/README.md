@@ -1,6 +1,4 @@
-<picture>
-      <img alt="our logo" height="200" src="https://cdn.discordapp.com/attachments/1127904933484695582/1128054928011698327/New_main.png?ex=662ffe05&is=661d8905&hm=d16e4a3e49ad9946fbd81e5438a9e71ff0bc6e617879ac09896199195c731c20&">
-</picture>
+![plot](/main.png)
 
 ## Who We Are
 
